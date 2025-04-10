@@ -1,5 +1,5 @@
 
-...(Available on Kaggle: [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/cosmos98/twitter-sentiment-analysis))*
+...(Available on Kaggle: [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/markmedhat/twitter))*
 
 ---
 
