@@ -9,7 +9,9 @@
 ```bash
 streamlit run app.py
 ```
+```bash
 python -m streamlit run sentiment_analyser.py
+```
 
 
 ### Interface Preview
