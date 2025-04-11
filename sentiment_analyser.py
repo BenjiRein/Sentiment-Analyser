@@ -35,9 +35,8 @@ def preprocess_text(text):
 
 def load_data():
     # Load dataset
-    train_data = pd.read_csv('datasets/twitter_training.csv', header=None)
-    val_data = pd.read_csv('datasets/twitter_validation.csv', header=None)
-
+    train_data = pd.read_csv('twitter_training.csv', header=None)
+    val_data = pd.read_csv('twitter_validation.csv', header=None)
     data = pd.concat([train_data, val_data], ignore_index=True)
     data.columns = ['id', 'game', 'sentiment', 'text']
     
