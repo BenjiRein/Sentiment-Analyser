@@ -11,7 +11,9 @@ pip install streamlit matplotlib pandas numpy emoji nltk scikit-learn
 ```bash
 streamlit run app.py
 ```
+```bash
 python -m streamlit run sentiment_analyser.py
+```
 
 
 ### Interface Preview
