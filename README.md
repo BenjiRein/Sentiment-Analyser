@@ -2,6 +2,8 @@
 ...(Available on Kaggle: [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/markmedhat/twitter))*
 
 ---
+### Dependancies
+pip install streamlit matplotlib pandas numpy emoji nltk scikit-learn
 
 ## Usage
 
